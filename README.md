@@ -26,6 +26,7 @@ Software QA Automation AI Engineer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,selenium,jira,postman" />
 </p>
 
 ---
