@@ -6,7 +6,7 @@ Software QA Automation AI Engineer
 ---
 
 ### 🔍 Experience
-- 9+ years of experience in Software Quality Assurance
+- 5+ years of experience in Software Quality Assurance
 - Automation testing for Web, Mobile, API, and Cloud applications
 - Strong background in End-to-End, Regression, UAT, and Performance testing
 - Experience with AI-powered QA automation tools
